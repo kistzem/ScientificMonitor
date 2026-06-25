@@ -1,0 +1,172 @@
+{
+  "generated_at": "25/06/2026 07:05",
+  "generated_iso": "2026-06-25T07:05:10.006466+03:00",
+  "total_tracked": 8,
+  "citation_data": [
+    {
+      "paper_id": "s2:ff8c91ea334dc5fe363e5d28e56b4b9f2ba7a6ea",
+      "paper_title": "Space Debris and Stratospheric Ozone: Modeling and Analysis of the Sustainability of Reentry Disposa",
+      "tracked_author": "Bryan E. Hartigan",
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "paper_id": "s2:38bc62976f7fd8dc08bd45d9c05a5a62cc69c046",
+      "paper_title": "A proposal for the safety and controllability requirements that SRM systems should meet",
+      "tracked_author": "E. Waxman",
+      "citation_count": 3,
+      "citations": [
+        {
+          "citing_id": "7791d23d54b8a53057255b03449966d694b39512",
+          "citing_title": "From Particles to Policy: Technical Building Blocks for Multi-State SAI Coordination",
+          "citing_authors": [
+            "R. Yahav",
+            "A. Spector",
+            "D. Kushnir"
+          ],
+          "year": 2026,
+          "pub_date": "2026-05-14",
+          "url": "https://arxiv.org/abs/2605.14947",
+          "misrep_flag": false
+        },
+        {
+          "citing_id": "82ee68c88af65f80751b8f834b2bc9d6afcc710b",
+          "citing_title": "Uptake of stratospheric species on minerals proposed for stratospheric aerosol injection",
+          "citing_authors": [
+            "A. Lostier",
+            "Yair Segev",
+            "T. Kislev"
+          ],
+          "year": 2026,
+          "pub_date": "2026-05-14",
+          "url": "https://arxiv.org/abs/2605.14826",
+          "misrep_flag": false
+        },
+        {
+          "citing_id": "c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "citing_title": "Solid-particle stratospheric aerosol injection: a 2-D modeling exploration of the design space",
+          "citing_authors": [
+            "Y. Lederer",
+            "N. Wygoda",
+            "D. Halbertal"
+          ],
+          "year": null,
+          "pub_date": "",
+          "url": "https://www.semanticscholar.org/paper/c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "misrep_flag": false
+        }
+      ]
+    },
+    {
+      "paper_id": "s2:82ee68c88af65f80751b8f834b2bc9d6afcc710b",
+      "paper_title": "Uptake of stratospheric species on minerals proposed for stratospheric aerosol injection",
+      "tracked_author": "A. Lostier",
+      "citation_count": 2,
+      "citations": [
+        {
+          "citing_id": "c615da3d7c3e08db663b6e2c8f236e21f06f2242",
+          "citing_title": "Efficient dispersal of submicron solid particles for stratospheric aerosol injection",
+          "citing_authors": [
+            "Yair Segev",
+            "E. Levine",
+            "Yair Bar-Yoseph"
+          ],
+          "year": 2026,
+          "pub_date": "2026-05-15",
+          "url": "https://arxiv.org/abs/2605.27414",
+          "misrep_flag": false
+        },
+        {
+          "citing_id": "c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "citing_title": "Solid-particle stratospheric aerosol injection: a 2-D modeling exploration of the design space",
+          "citing_authors": [
+            "Y. Lederer",
+            "N. Wygoda",
+            "D. Halbertal"
+          ],
+          "year": null,
+          "pub_date": "",
+          "url": "https://www.semanticscholar.org/paper/c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "misrep_flag": false
+        }
+      ]
+    },
+    {
+      "paper_id": "s2:b12984c1c7d031ca230d554b632559cdd58d3be4",
+      "paper_title": "Composite sub-micron solid particles engineered to enable safe, controllable, efficient, and practic",
+      "tracked_author": "A. Spector",
+      "citation_count": 3,
+      "citations": [
+        {
+          "citing_id": "c615da3d7c3e08db663b6e2c8f236e21f06f2242",
+          "citing_title": "Efficient dispersal of submicron solid particles for stratospheric aerosol injection",
+          "citing_authors": [
+            "Yair Segev",
+            "E. Levine",
+            "Yair Bar-Yoseph"
+          ],
+          "year": 2026,
+          "pub_date": "2026-05-15",
+          "url": "https://arxiv.org/abs/2605.27414",
+          "misrep_flag": false
+        },
+        {
+          "citing_id": "7791d23d54b8a53057255b03449966d694b39512",
+          "citing_title": "From Particles to Policy: Technical Building Blocks for Multi-State SAI Coordination",
+          "citing_authors": [
+            "R. Yahav",
+            "A. Spector",
+            "D. Kushnir"
+          ],
+          "year": 2026,
+          "pub_date": "2026-05-14",
+          "url": "https://arxiv.org/abs/2605.14947",
+          "misrep_flag": false
+        },
+        {
+          "citing_id": "c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "citing_title": "Solid-particle stratospheric aerosol injection: a 2-D modeling exploration of the design space",
+          "citing_authors": [
+            "Y. Lederer",
+            "N. Wygoda",
+            "D. Halbertal"
+          ],
+          "year": null,
+          "pub_date": "",
+          "url": "https://www.semanticscholar.org/paper/c69150ef85dab8ff049fe3d0fb04f52d19a043db",
+          "misrep_flag": false
+        }
+      ]
+    },
+    {
+      "paper_id": "s2:00fbfb880b673c9ec4366c34831fbaa6dc28a4e9",
+      "paper_title": "Uncertainties of SAI efﬁciency and impacts depending on the complexity of the aerosol microphysical ",
+      "tracked_author": "S. Tilmes",
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "paper_id": "s2:4cc01b8323ab5331961617daeff10a9656d0eceb",
+      "paper_title": "Radiative forcing and climate impacts caused by the 2022 Hunga volcano eruption",
+      "tracked_author": "M. Schoeberl",
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "paper_id": "s2:8d66edc6d06275263277e7bb98da5ea87e05effc",
+      "paper_title": "HTHH-MOC model validation and analysis results",
+      "tracked_author": "Zhihong Zhuo",
+      "citation_count": 0,
+      "citations": []
+    },
+    {
+      "paper_id": "s2:983e00804a4f859da88ab49b2494a70cd60071d3",
+      "paper_title": "Response to",
+      "tracked_author": "Zhihong Zhuo",
+      "citation_count": 0,
+      "citations": []
+    }
+  ],
+  "misrep_alerts": [],
+  "trajectory_alerts": []
+}

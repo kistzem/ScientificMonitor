@@ -1,0 +1,2465 @@
+{
+  "generated_at": "25/06/2026 07:00",
+  "generated_iso": "2026-06-25T07:00:41.095234+03:00",
+  "nodes": [
+    {
+      "name": "Bryan E. Hartigan",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "William A. Crossley",
+          1
+        ],
+        [
+          "D. Cziczo",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "William A. Crossley",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Bryan E. Hartigan",
+          1
+        ],
+        [
+          "D. Cziczo",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "D. Cziczo",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Bryan E. Hartigan",
+          1
+        ],
+        [
+          "William A. Crossley",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "E. Waxman",
+      "degree": 7,
+      "total_collab_count": 11,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "A. Spector",
+          2
+        ],
+        [
+          "Y. Segev",
+          2
+        ],
+        [
+          "T. Kislev",
+          2
+        ],
+        [
+          "Y. Yedvab",
+          2
+        ],
+        [
+          "Y. Lederer",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "A. Spector",
+      "degree": 7,
+      "total_collab_count": 11,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          2
+        ],
+        [
+          "Y. Segev",
+          2
+        ],
+        [
+          "T. Kislev",
+          2
+        ],
+        [
+          "Y. Yedvab",
+          2
+        ],
+        [
+          "Y. Lederer",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Y. Lederer",
+      "degree": 7,
+      "total_collab_count": 7,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          1
+        ],
+        [
+          "A. Spector",
+          1
+        ],
+        [
+          "Y. Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Y. Yedvab",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Y. Segev",
+      "degree": 7,
+      "total_collab_count": 11,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          2
+        ],
+        [
+          "A. Spector",
+          2
+        ],
+        [
+          "T. Kislev",
+          2
+        ],
+        [
+          "Y. Yedvab",
+          2
+        ],
+        [
+          "Y. Lederer",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "T. Kislev",
+      "degree": 12,
+      "total_collab_count": 16,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          2
+        ],
+        [
+          "A. Spector",
+          2
+        ],
+        [
+          "Y. Segev",
+          2
+        ],
+        [
+          "Y. Yedvab",
+          2
+        ],
+        [
+          "Y. Lederer",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Y. Yedvab",
+      "degree": 7,
+      "total_collab_count": 11,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          2
+        ],
+        [
+          "A. Spector",
+          2
+        ],
+        [
+          "Y. Segev",
+          2
+        ],
+        [
+          "T. Kislev",
+          2
+        ],
+        [
+          "Y. Lederer",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "D. Kushnir",
+      "degree": 7,
+      "total_collab_count": 7,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          1
+        ],
+        [
+          "A. Spector",
+          1
+        ],
+        [
+          "Y. Lederer",
+          1
+        ],
+        [
+          "Y. Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "R. Yahav",
+      "degree": 7,
+      "total_collab_count": 7,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "E. Waxman",
+          1
+        ],
+        [
+          "A. Spector",
+          1
+        ],
+        [
+          "Y. Lederer",
+          1
+        ],
+        [
+          "Y. Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "A. Lostier",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Yair Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Gal Schwartz Roitman",
+          1
+        ],
+        [
+          "Nadine Locoge",
+          1
+        ],
+        [
+          "M. Romanias",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Yair Segev",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "A. Lostier",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Gal Schwartz Roitman",
+          1
+        ],
+        [
+          "Nadine Locoge",
+          1
+        ],
+        [
+          "M. Romanias",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Gal Schwartz Roitman",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "A. Lostier",
+          1
+        ],
+        [
+          "Yair Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Nadine Locoge",
+          1
+        ],
+        [
+          "M. Romanias",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Nadine Locoge",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "A. Lostier",
+          1
+        ],
+        [
+          "Yair Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Gal Schwartz Roitman",
+          1
+        ],
+        [
+          "M. Romanias",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "M. Romanias",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "A. Lostier",
+          1
+        ],
+        [
+          "Yair Segev",
+          1
+        ],
+        [
+          "T. Kislev",
+          1
+        ],
+        [
+          "Gal Schwartz Roitman",
+          1
+        ],
+        [
+          "Nadine Locoge",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "S. Tilmes",
+      "degree": 33,
+      "total_collab_count": 74,
+      "is_tracked": false,
+      "papers_count": 5,
+      "top_collabs": [
+        [
+          "Yunqian Zhu",
+          4
+        ],
+        [
+          "Takashi Sekiya",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          4
+        ],
+        [
+          "S. Watanabe",
+          4
+        ],
+        [
+          "Wandi Yu",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "D. Visioni",
+      "degree": 26,
+      "total_collab_count": 30,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          2
+        ],
+        [
+          "I. Quaglia",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "P. Yu",
+          2
+        ],
+        [
+          "1. CharlesG.Bardeen",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "I. Quaglia",
+      "degree": 27,
+      "total_collab_count": 38,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          3
+        ],
+        [
+          "D. Visioni",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "P. Yu",
+          2
+        ],
+        [
+          "E. Bednarz",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Yunqian Zhu",
+      "degree": 28,
+      "total_collab_count": 57,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          3
+        ],
+        [
+          "Wandi Yu",
+          3
+        ],
+        [
+          "S. Watanabe",
+          3
+        ],
+        [
+          "G. Stenchikov",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "1. CharlesG.Bardeen",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          1
+        ],
+        [
+          "D. Visioni",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "Francis Vitt 1",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Francis Vitt 1",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          1
+        ],
+        [
+          "D. Visioni",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "1. CharlesG.Bardeen",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "P. Yu",
+      "degree": 17,
+      "total_collab_count": 21,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          2
+        ],
+        [
+          "D. Visioni",
+          2
+        ],
+        [
+          "I. Quaglia",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "1. CharlesG.Bardeen",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "M. Schoeberl",
+      "degree": 26,
+      "total_collab_count": 53,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "Eric L. Fleming",
+          3
+        ],
+        [
+          "Zhihong Zhuo",
+          3
+        ],
+        [
+          "Peter R. Colarco",
+          3
+        ],
+        [
+          "David Plummer",
+          3
+        ],
+        [
+          "Takashi Sekiya",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "E. Bednarz",
+      "degree": 29,
+      "total_collab_count": 50,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "Takashi Sekiya",
+          3
+        ],
+        [
+          "S. Tilmes",
+          3
+        ],
+        [
+          "Xinyue Wang",
+          3
+        ],
+        [
+          "S. Watanabe",
+          3
+        ],
+        [
+          "Wandi Yu",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Eric L. Fleming",
+      "degree": 26,
+      "total_collab_count": 53,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          3
+        ],
+        [
+          "Zhihong Zhuo",
+          3
+        ],
+        [
+          "Peter R. Colarco",
+          3
+        ],
+        [
+          "David Plummer",
+          3
+        ],
+        [
+          "Takashi Sekiya",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Yi Huang",
+      "degree": 17,
+      "total_collab_count": 17,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "Pasquale Sellitto",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Pasquale Sellitto",
+      "degree": 17,
+      "total_collab_count": 17,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ],
+        [
+          "Yi Huang",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "C. Timmreck",
+      "degree": 17,
+      "total_collab_count": 17,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ],
+        [
+          "Yi Huang",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "M. Toohey",
+      "degree": 17,
+      "total_collab_count": 17,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ],
+        [
+          "Yi Huang",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Jun Wang",
+      "degree": 17,
+      "total_collab_count": 17,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ],
+        [
+          "Yi Huang",
+          1
+        ],
+        [
+          "I. Quaglia",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Zhihong Zhuo",
+      "degree": 26,
+      "total_collab_count": 53,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          3
+        ],
+        [
+          "Eric L. Fleming",
+          3
+        ],
+        [
+          "Peter R. Colarco",
+          3
+        ],
+        [
+          "David Plummer",
+          3
+        ],
+        [
+          "Takashi Sekiya",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Peter R. Colarco",
+      "degree": 26,
+      "total_collab_count": 53,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          3
+        ],
+        [
+          "Eric L. Fleming",
+          3
+        ],
+        [
+          "Zhihong Zhuo",
+          3
+        ],
+        [
+          "David Plummer",
+          3
+        ],
+        [
+          "Takashi Sekiya",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "David Plummer",
+      "degree": 26,
+      "total_collab_count": 53,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "M. Schoeberl",
+          3
+        ],
+        [
+          "Eric L. Fleming",
+          3
+        ],
+        [
+          "Zhihong Zhuo",
+          3
+        ],
+        [
+          "Peter R. Colarco",
+          3
+        ],
+        [
+          "Takashi Sekiya",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Takashi Sekiya",
+      "degree": 31,
+      "total_collab_count": 68,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          4
+        ],
+        [
+          "S. Watanabe",
+          4
+        ],
+        [
+          "Wandi Yu",
+          4
+        ],
+        [
+          "Jun Zhang",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Xinyue Wang",
+      "degree": 31,
+      "total_collab_count": 68,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "Takashi Sekiya",
+          4
+        ],
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "S. Watanabe",
+          4
+        ],
+        [
+          "Wandi Yu",
+          4
+        ],
+        [
+          "Jun Zhang",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "S. Watanabe",
+      "degree": 31,
+      "total_collab_count": 68,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "Takashi Sekiya",
+          4
+        ],
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          4
+        ],
+        [
+          "Wandi Yu",
+          4
+        ],
+        [
+          "Jun Zhang",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Wandi Yu",
+      "degree": 31,
+      "total_collab_count": 68,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "Takashi Sekiya",
+          4
+        ],
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          4
+        ],
+        [
+          "S. Watanabe",
+          4
+        ],
+        [
+          "Jun Zhang",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "Jun Zhang",
+      "degree": 31,
+      "total_collab_count": 68,
+      "is_tracked": false,
+      "papers_count": 4,
+      "top_collabs": [
+        [
+          "Takashi Sekiya",
+          4
+        ],
+        [
+          "S. Tilmes",
+          4
+        ],
+        [
+          "Xinyue Wang",
+          4
+        ],
+        [
+          "S. Watanabe",
+          4
+        ],
+        [
+          "Wandi Yu",
+          4
+        ]
+      ]
+    },
+    {
+      "name": "G. Stenchikov",
+      "degree": 26,
+      "total_collab_count": 51,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "Xinyue Wang",
+          3
+        ],
+        [
+          "Yunqian Zhu",
+          3
+        ],
+        [
+          "Wandi Yu",
+          3
+        ],
+        [
+          "S. Watanabe",
+          3
+        ],
+        [
+          "Valentina Aquila",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "W. Randel",
+      "degree": 18,
+      "total_collab_count": 18,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          1
+        ],
+        [
+          "Xinyue Wang",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "Wandi Yu",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Adam Bourassa",
+      "degree": 20,
+      "total_collab_count": 36,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          2
+        ],
+        [
+          "Xinyue Wang",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "Wandi Yu",
+          2
+        ],
+        [
+          "Eric L. Fleming",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Valentina Aquila",
+      "degree": 26,
+      "total_collab_count": 51,
+      "is_tracked": false,
+      "papers_count": 3,
+      "top_collabs": [
+        [
+          "Xinyue Wang",
+          3
+        ],
+        [
+          "Yunqian Zhu",
+          3
+        ],
+        [
+          "Wandi Yu",
+          3
+        ],
+        [
+          "S. Watanabe",
+          3
+        ],
+        [
+          "G. Stenchikov",
+          3
+        ]
+      ]
+    },
+    {
+      "name": "Paul J. Kushner",
+      "degree": 20,
+      "total_collab_count": 36,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          2
+        ],
+        [
+          "Xinyue Wang",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "Wandi Yu",
+          2
+        ],
+        [
+          "Eric L. Fleming",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "F. Pausata",
+      "degree": 20,
+      "total_collab_count": 36,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          2
+        ],
+        [
+          "Xinyue Wang",
+          2
+        ],
+        [
+          "Yunqian Zhu",
+          2
+        ],
+        [
+          "Wandi Yu",
+          2
+        ],
+        [
+          "Eric L. Fleming",
+          2
+        ]
+      ]
+    },
+    {
+      "name": "Ewa Bednarz",
+      "degree": 18,
+      "total_collab_count": 18,
+      "is_tracked": true,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          1
+        ],
+        [
+          "Xinyue Wang",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "Wandi Yu",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "William Randel",
+      "degree": 18,
+      "total_collab_count": 18,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          1
+        ],
+        [
+          "Xinyue Wang",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "Wandi Yu",
+          1
+        ],
+        [
+          "Ewa Bednarz",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Yue Wang",
+      "degree": 1,
+      "total_collab_count": 1,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "D. Visioni",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Cheng‐Cheng Liu",
+      "degree": 15,
+      "total_collab_count": 15,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "D. Visioni",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "G. Stenchikov",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Graham W. Mann",
+      "degree": 15,
+      "total_collab_count": 15,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "D. Visioni",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "G. Stenchikov",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Yifeng Peng",
+      "degree": 15,
+      "total_collab_count": 15,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "I. Quaglia",
+          1
+        ],
+        [
+          "D. Visioni",
+          1
+        ],
+        [
+          "E. Bednarz",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "G. Stenchikov",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Anthony S. Freveletti",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "M. Diamond",
+          1
+        ],
+        [
+          "Robert C. J. Wills",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "M. Diamond",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Anthony S. Freveletti",
+          1
+        ],
+        [
+          "Robert C. J. Wills",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Robert C. J. Wills",
+      "degree": 2,
+      "total_collab_count": 2,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Anthony S. Freveletti",
+          1
+        ],
+        [
+          "M. Diamond",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Alistair Duffey",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "W. Lee",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Lauren Wheeler",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Peter J. Irvine",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Benjamin Wagman",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": true,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Matthew Henry",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Michel Tsamados",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "D. MacMartin",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Benjamin Wagman",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Gabriela Sanchez Ortiz",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ],
+        [
+          "Vedad Demir",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Marlene Löberbauer",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ],
+        [
+          "Vedad Demir",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "N. Andrić‐Tomašević",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ],
+        [
+          "Vedad Demir",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Oleg Mandic",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ],
+        [
+          "Vedad Demir",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "D. Pavelić",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "Vedad Demir",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Vedad Demir",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Patrick W. Keys",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "M. Meijers",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "J. Rugenstein",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gabriela Sanchez Ortiz",
+          1
+        ],
+        [
+          "Marlene Löberbauer",
+          1
+        ],
+        [
+          "N. Andrić‐Tomašević",
+          1
+        ],
+        [
+          "Oleg Mandic",
+          1
+        ],
+        [
+          "D. Pavelić",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Hamed Fahandezh Sadi",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Fan Yang",
+          1
+        ],
+        [
+          "Jesse C. Anderson",
+          1
+        ],
+        [
+          "Surya Pratap Singh",
+          1
+        ],
+        [
+          "W. Cantrell",
+          1
+        ],
+        [
+          "Raymond A. Shaw",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Fan Yang",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Hamed Fahandezh Sadi",
+          1
+        ],
+        [
+          "Jesse C. Anderson",
+          1
+        ],
+        [
+          "Surya Pratap Singh",
+          1
+        ],
+        [
+          "W. Cantrell",
+          1
+        ],
+        [
+          "Raymond A. Shaw",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Jesse C. Anderson",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Hamed Fahandezh Sadi",
+          1
+        ],
+        [
+          "Fan Yang",
+          1
+        ],
+        [
+          "Surya Pratap Singh",
+          1
+        ],
+        [
+          "W. Cantrell",
+          1
+        ],
+        [
+          "Raymond A. Shaw",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Surya Pratap Singh",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Hamed Fahandezh Sadi",
+          1
+        ],
+        [
+          "Fan Yang",
+          1
+        ],
+        [
+          "Jesse C. Anderson",
+          1
+        ],
+        [
+          "W. Cantrell",
+          1
+        ],
+        [
+          "Raymond A. Shaw",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "W. Cantrell",
+      "degree": 5,
+      "total_collab_count": 5,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Hamed Fahandezh Sadi",
+          1
+        ],
+        [
+          "Fan Yang",
+          1
+        ],
+        [
+          "Jesse C. Anderson",
+          1
+        ],
+        [
+          "Surya Pratap Singh",
+          1
+        ],
+        [
+          "Raymond A. Shaw",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Raymond A. Shaw",
+      "degree": 11,
+      "total_collab_count": 11,
+      "is_tracked": false,
+      "papers_count": 2,
+      "top_collabs": [
+        [
+          "Hamed Fahandezh Sadi",
+          1
+        ],
+        [
+          "Fan Yang",
+          1
+        ],
+        [
+          "Jesse C. Anderson",
+          1
+        ],
+        [
+          "Surya Pratap Singh",
+          1
+        ],
+        [
+          "W. Cantrell",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Nithin Allwayin",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Gregory Roberts",
+          1
+        ],
+        [
+          "Elise Rosky",
+          1
+        ],
+        [
+          "Kenny Bala",
+          1
+        ],
+        [
+          "A. Bansemer",
+          1
+        ],
+        [
+          "K. Ranjbar",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Gregory Roberts",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Nithin Allwayin",
+          1
+        ],
+        [
+          "Elise Rosky",
+          1
+        ],
+        [
+          "Kenny Bala",
+          1
+        ],
+        [
+          "A. Bansemer",
+          1
+        ],
+        [
+          "K. Ranjbar",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Elise Rosky",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Nithin Allwayin",
+          1
+        ],
+        [
+          "Gregory Roberts",
+          1
+        ],
+        [
+          "Kenny Bala",
+          1
+        ],
+        [
+          "A. Bansemer",
+          1
+        ],
+        [
+          "K. Ranjbar",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Kenny Bala",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Nithin Allwayin",
+          1
+        ],
+        [
+          "Gregory Roberts",
+          1
+        ],
+        [
+          "Elise Rosky",
+          1
+        ],
+        [
+          "A. Bansemer",
+          1
+        ],
+        [
+          "K. Ranjbar",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "A. Bansemer",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Nithin Allwayin",
+          1
+        ],
+        [
+          "Gregory Roberts",
+          1
+        ],
+        [
+          "Elise Rosky",
+          1
+        ],
+        [
+          "Kenny Bala",
+          1
+        ],
+        [
+          "K. Ranjbar",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "K. Ranjbar",
+      "degree": 6,
+      "total_collab_count": 6,
+      "is_tracked": false,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Nithin Allwayin",
+          1
+        ],
+        [
+          "Gregory Roberts",
+          1
+        ],
+        [
+          "Elise Rosky",
+          1
+        ],
+        [
+          "Kenny Bala",
+          1
+        ],
+        [
+          "A. Bansemer",
+          1
+        ]
+      ]
+    }
+  ],
+  "node_count": 83,
+  "edge_count": 530,
+  "cluster_count": 6,
+  "largest_cluster": [
+    "C. Timmreck",
+    "S. Watanabe",
+    "E. Bednarz",
+    "Yi Huang",
+    "Takashi Sekiya",
+    "Pasquale Sellitto",
+    "Eric L. Fleming",
+    "Xinyue Wang",
+    "Peter R. Colarco",
+    "M. Toohey",
+    "Zhihong Zhuo",
+    "Jun Zhang",
+    "I. Quaglia",
+    "S. Tilmes",
+    "Jun Wang",
+    "David Plummer",
+    "M. Schoeberl",
+    "Wandi Yu",
+    "D. Visioni",
+    "Yunqian Zhu"
+  ],
+  "hubs": [
+    {
+      "name": "Ewa Bednarz",
+      "degree": 18,
+      "total_collab_count": 18,
+      "is_tracked": true,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Zhihong Zhuo",
+          1
+        ],
+        [
+          "Xinyue Wang",
+          1
+        ],
+        [
+          "Yunqian Zhu",
+          1
+        ],
+        [
+          "Wandi Yu",
+          1
+        ],
+        [
+          "Eric L. Fleming",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "Benjamin Wagman",
+      "degree": 8,
+      "total_collab_count": 8,
+      "is_tracked": true,
+      "papers_count": 1,
+      "top_collabs": [
+        [
+          "Alistair Duffey",
+          1
+        ],
+        [
+          "W. Lee",
+          1
+        ],
+        [
+          "Lauren Wheeler",
+          1
+        ],
+        [
+          "Peter J. Irvine",
+          1
+        ],
+        [
+          "Matthew Henry",
+          1
+        ]
+      ]
+    }
+  ],
+  "recent_collabs": [
+    {
+      "title": "Response to",
+      "date": "None-01-01",
+      "authors": [
+        "Zhihong Zhuo",
+        "Xinyue Wang",
+        "Yunqian Zhu",
+        "Wandi Yu",
+        "Ewa Bednarz"
+      ],
+      "source": "semantic_scholar"
+    },
+    {
+      "title": "The global climate response to High-Latitude Low-Altitude Stratospheric Aerosol ",
+      "date": "2026-04-16",
+      "authors": [
+        "Alistair Duffey",
+        "W. Lee",
+        "Lauren Wheeler",
+        "Peter J. Irvine",
+        "Benjamin Wagman"
+      ],
+      "source": "semantic_scholar"
+    }
+  ],
+  "stardust_position": {
+    "name": "T. Kislev",
+    "degree": 12,
+    "total_collab_count": 16,
+    "is_tracked": false,
+    "papers_count": 3,
+    "top_collabs": [
+      [
+        "E. Waxman",
+        2
+      ],
+      [
+        "A. Spector",
+        2
+      ],
+      [
+        "Y. Segev",
+        2
+      ],
+      [
+        "Y. Yedvab",
+        2
+      ],
+      [
+        "Y. Lederer",
+        1
+      ]
+    ]
+  }
+}

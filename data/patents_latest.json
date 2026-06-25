@@ -1,0 +1,43 @@
+{
+  "generated_at": "25/06/2026 07:06",
+  "generated_iso": "2026-06-25T07:06:16.775421+03:00",
+  "total": 0,
+  "new_count": 0,
+  "competitor_count": 0,
+  "overlap_count": 0,
+  "patents": [],
+  "cluster_summary": {},
+  "top_owners": [],
+  "ip_gaps": [
+    {
+      "cluster": "delivery_mechanism",
+      "patent_count": 0,
+      "opportunity": "פחות מ-3 פטנטים בתחום delivery_mechanism — הזדמנות פוטנציאלית לStardust"
+    },
+    {
+      "cluster": "particle_chemistry",
+      "patent_count": 0,
+      "opportunity": "פחות מ-3 פטנטים בתחום particle_chemistry — הזדמנות פוטנציאלית לStardust"
+    },
+    {
+      "cluster": "monitoring",
+      "patent_count": 0,
+      "opportunity": "פחות מ-3 פטנטים בתחום monitoring — הזדמנות פוטנציאלית לStardust"
+    },
+    {
+      "cluster": "governance",
+      "patent_count": 0,
+      "opportunity": "פחות מ-3 פטנטים בתחום governance — הזדמנות פוטנציאלית לStardust"
+    },
+    {
+      "cluster": "modeling",
+      "patent_count": 0,
+      "opportunity": "פחות מ-3 פטנטים בתחום modeling — הזדמנות פוטנציאלית לStardust"
+    }
+  ],
+  "potential_disputes": [],
+  "competitor_patents": [],
+  "stardust_overlap": [],
+  "tracked_inventor_patents": [],
+  "alerts_immediate": []
+}

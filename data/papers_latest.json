@@ -1,0 +1,221 @@
+{
+  "generated_at": "25/06/2026 07:07",
+  "generated_iso": "2026-06-25T07:07:20.925294+03:00",
+  "total": 7,
+  "papers": [
+    {
+      "id": "arxiv:2606.15955v1",
+      "title": "Composite sub-micron solid particles engineered to enable safe, controllable, efficient, and practical SAI",
+      "authors": [
+        "A. Spector",
+        "T. Kislev",
+        "Y. Segev",
+        "Y. Yedvab",
+        "E. Waxman"
+      ],
+      "abstract": "The properties of candidate particles for solar radiation management (SRM) through stratospheric aerosol injection (SAI) should comply with safety, controllability, and functionality requirements. Following the proposal in arXiv:2604.02283 of safety and controllability requirements, we define here a set of functionality requirements on the particles' properties -- optical properties, stratospheric residence time, scalable manufacturing compatibility, and aerial dispersion compatibility -- that, if met, ensure the feasibility of practical implementation, providing reflection of $\\sim1$% of the solar flux. We then present design principles and fabrication methods for sub-micron solid particles that may enable satisfying the combined requirements. These requirements do not identify a unique solution, but favor sub-micron particles with tightly controlled size distributions and stable properties over their stratospheric lifetime, and motivate a composite design where the bulk core composition is selected primarily for optimal radiative properties and the outer shell surface is engineered to control atmospheric chemistry and aging, and enhance aerial dispersion compatibility. We present",
+      "url": "https://arxiv.org/abs/2606.15955v1",
+      "doi": "",
+      "published_date": "2026-06-14",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2606.15955v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2605.23776v1",
+      "title": "Precipitation diffusion downscaling and application to out-of-distribution simulations with and without stratospheric aerosol injection",
+      "authors": [
+        "Cameron Dong",
+        "James W. Hurrell",
+        "Elizabeth A. Barnes"
+      ],
+      "abstract": "Stratospheric aerosol injection (SAI), a possible climate engineering strategy where reflective particles are injected into the stratosphere, has been explored to mitigate global warming and its associated risks, such as the intensification of extreme precipitation events. However, current Earth system models (ESMs) often used to simulate SAI and other climate change scenarios are too coarse to properly assess such risks. Traditional statistical downscaling methods, used to project higher resolution impacts, may be biased and unrealistic. To address this, we train a deep learning diffusion downscaler to generate 0.25° contiguous United States (CONUS) daily precipitation using historical and future climate simulations from the Mesoscale Atmosphere-Ocean Interaction in Seasonal-to-Decadal Climate Prediction (MESACLIP) project, then apply the diffusion downscaler to out-of-distribution CESM2 simulations with and without SAI. The diffusion model generates realistic downscaled precipitation using either MESACLIP or CESM2 inputs. It also faithfully recreates the climate change projections of extreme precipitation in MESACLIP. Diffusion-downscaled projections of the future CESM2 SAI scena",
+      "url": "https://arxiv.org/abs/2605.23776v1",
+      "doi": "",
+      "published_date": "2026-05-22",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2605.23776v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2605.27414v1",
+      "title": "Efficient dispersal of submicron solid particles for stratospheric aerosol injection",
+      "authors": [
+        "Yair Segev",
+        "Eitan Y. Levine",
+        "Yair Bar-Yoseph",
+        "Ori Amsallem",
+        "Yuval Dagan",
+        "Elad Laor",
+        "Shai Rahamim",
+        "Alon Luski",
+        "Eran Daniel",
+        "Eshani Hettiarachchi",
+        "Amyad Spector"
+      ],
+      "abstract": "Stratospheric aerosol injection (SAI) using solid particles has been proposed as an alternative to sulfate aerosols for solar radiation modification, but practical deployment faces challenges in efficiently deagglomerating and dispersing powders as submicron particles. Here we experimentally demonstrate pneumatic dispersal of particles in optically optimal size ranges for SAI. Using spherical amorphous silica particles, we find that applying a hydrophobic surface treatment substantially improves dispersibility, with 50-85% of treated particle mass achieving submicron sizes compared to 10% for untreated particles. We compare the dispersal of treated particles of different sizes and find that 300 nm particles provide superior deagglomeration than 500 nm particles for the same air consumption. Theoretical modeling of the adhesion forces between particles, combined with surface roughness parameters extracted from atomic force microscopy, successfully predicted the relative dispersibility across different particle types. The pneumatic dispersal system achieved optimal performance at air-to-powder mass ratios of about 10:1. Using the measured dispersed particle sizes, we provide a scalin",
+      "url": "https://arxiv.org/abs/2605.27414v1",
+      "doi": "",
+      "published_date": "2026-05-15",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2605.27414v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2605.14947v2",
+      "title": "From Particles to Policy: Technical Building Blocks for Multi-State SAI Coordination",
+      "authors": [
+        "R. Yahav",
+        "A. Spector",
+        "D. Kushnir",
+        "M. C. Waxman"
+      ],
+      "abstract": "Stratospheric aerosol injection (SAI) is a solar radiation modification technique, proposed as an interim measure to offset warming while greenhouse gas (GHG) emissions are reduced. This paper discusses a possible SAI implementation route - an alternative to sulfate aerosols formed in situ - based on engineered solid particles having dedicated properties such as size, composition, surface chemistry, and traceable origin, supporting safety, controllability, and functionality needed for SAI systems. These engineered properties also open up options for any future multi-state coordination of SAI through two technical building blocks: (1) the SAI-induced radiative forcing (SRF) - the magnitude of the cooling effect attributable specifically to the SAI layer - as an operator-independent quantity, derivable from direct aerosol-layer measurements; and (2) particle traceability through identifying signatures embedded at production. Both could feed into a shared, publicly accessible monitoring database open to independent interrogation, addressing several governance challenges by anchoring compliance assessments in measurable parameters. Drawing on precedents from the Montreal Protocol, IAEA",
+      "url": "https://arxiv.org/abs/2605.14947v2",
+      "doi": "",
+      "published_date": "2026-05-14",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2605.14947v2",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2605.14826v1",
+      "title": "Uptake of stratospheric species on minerals proposed for stratospheric aerosol injection",
+      "authors": [
+        "Anais Lostier",
+        "Yair Segev",
+        "Tzemah Kislev",
+        "Gal Schwartz Roitman",
+        "Nadine Locoge",
+        "Manolis N. Romanias"
+      ],
+      "abstract": "Solid mineral-based particles have been proposed as alternatives to sulfates for climate intervention by stratospheric aerosol injection, as a means for improving optical or chemical characteristics and thereby minimize risks and uncertainties. However, the heterogeneous reactivity of solid particles with stratospheric trace gases, and possible implications to the ozone layer, is currently not fully constrained, particularly at stratospheric concentrations. We present a systematic comparative study of the uptake of HNO3, HCl, and NO2 on calcite, alumina, crystalline silica (quartz), and amorphous silica, using complementary Knudsen cell and flow reactor techniques. We find that NO2 uptake is weak on all surfaces, with estimated removal timescales indicating negligible impact on stratospheric nitrogen chemistry. Conversely, HCl uptake is substantial, with a pronounced concentration dependence consistent with surface site limited Langmuir adsorption. Extracting adsorption isotherms, we find that HCl surface coverage at stratospheric concentrations differs by four orders of magnitude between the surfaces, with calcite adsorbing the most and amorphous silica the least, suggesting a dom",
+      "url": "https://arxiv.org/abs/2605.14826v1",
+      "doi": "",
+      "published_date": "2026-05-14",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2605.14826v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2604.04040v1",
+      "title": "Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data",
+      "authors": [
+        "Han-Chang Ko",
+        "Hongwei Sun"
+      ],
+      "abstract": "Stratospheric turbulence is difficult to observe, yet it strongly affects how momentum, trace gases, and aerosols spread through the atmosphere. Here, we use global high-resolution radiosonde observations from 370 stations during October 2014-December 2025 to estimate stratospheric turbulent diffusivity with a Richardson-number-based method. We find that turbulent diffusivity spans a broad range and is dominated by turbulence occurring in statically stable but strongly sheared conditions. Enhanced values appear over Turkey, India, Malaysia, Japan, and major mountainous regions, with evidence that mountain waves and convective activity both contribute. We also identify a local maximum just above the tropical tropopause, between the Equator and 15 N at 17 km altitude, which may indicate an injection region conducive to the rapid aerosol dispersion for stratospheric aerosol injection (SAI). Stratospheric turbulent diffusivity also shows a significant increase ($3.5 \\times 10^{-3}\\ \\mathrm{m^2\\ s^{-1}\\ yr^{-1}}$) over 2015-2025. Finally, these results may help constrain and predict the dispersion of stratospheric plumes from rockets, aircraft, and potential SAI.",
+      "url": "https://arxiv.org/abs/2604.04040v1",
+      "doi": "",
+      "published_date": "2026-04-05",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2604.04040v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    },
+    {
+      "id": "arxiv:2604.02283v1",
+      "title": "A proposal for the safety and controllability requirements that SRM systems should meet",
+      "authors": [
+        "E. Waxman",
+        "A. Spector",
+        "Y. Lederer",
+        "Y. Segev",
+        "T. Kislev",
+        "Y. Yedvab",
+        "D. Kushnir",
+        "R. Yahav"
+      ],
+      "abstract": "Solar Radiation Modification (SRM) may be the only way to limit global warming in the coming decades, leading to increased interest in the subject and to the expansion of related research & development (R&D) activity. Defining the safety and controllability requirements that any SRM system should meet is crucial for directing R&D activities and enabling governments to make informed decisions on the development and possible implementation of such systems. We present an initial proposal for this set of requirements, which also guides Stardust's R&D, as a basis for further discussion and consideration. While we focus on SRM systems based on Stratospheric Aerosol Injection (SAI), the proposed principles may be applicable more broadly.",
+      "url": "https://arxiv.org/abs/2604.02283v1",
+      "doi": "",
+      "published_date": "2026-04-02",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2604.02283v1",
+      "is_open_access": true,
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "category": "field",
+      "relevance_score": 0,
+      "alert_level": "none",
+      "tracked_author": null,
+      "tracked_org": null,
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "saved": false,
+      "found_at": "2026-06-25T07:07:21.865506+03:00"
+    }
+  ]
+}

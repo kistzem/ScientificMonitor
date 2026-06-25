@@ -1,0 +1,41 @@
+{
+  "generated_at": "25/06/2026 07:05",
+  "generated_iso": "2026-06-25T07:05:21.135061+03:00",
+  "total": 1,
+  "new_count": 1,
+  "papers": [
+    {
+      "id": "arxiv:2606.15955v1",
+      "title": "Composite sub-micron solid particles engineered to enable safe, controllable, efficient, and practical SAI",
+      "authors": [
+        "A. Spector",
+        "T. Kislev",
+        "Y. Segev",
+        "Y. Yedvab",
+        "E. Waxman"
+      ],
+      "abstract": "The properties of candidate particles for solar radiation management (SRM) through stratospheric aerosol injection (SAI) should comply with safety, controllability, and functionality requirements. Following the proposal in arXiv:2604.02283 of safety and controllability requirements, we define here a set of functionality requirements on the particles' properties -- optical properties, stratospheric residence time, scalable manufacturing compatibility, and aerial dispersion compatibility -- that, if met, ensure the feasibility of practical implementation, providing reflection of $\\sim1$% of the solar flux. We then present design principles and fabrication methods for sub-micron solid particles that may enable satisfying the combined requirements. These requirements do not identify a unique solution, but favor sub-micron particles with tightly controlled size distributions and stable properties over their stratospheric lifetime, and motivate a composite design where the bulk core composition is selected primarily for optimal radiative properties and the outer shell surface is engineered to control atmospheric chemistry and aging, and enhance aerial dispersion compatibility. We present",
+      "url": "https://arxiv.org/abs/2606.15955v1",
+      "doi": "",
+      "published_date": "2026-06-14",
+      "source": "arxiv",
+      "pdf_url": "https://arxiv.org/pdf/2606.15955v1",
+      "is_open_access": true,
+      "is_preprint": true,
+      "server": "arXiv",
+      "category": "preprint",
+      "alert_level": "daily",
+      "tracked_author": null,
+      "tracked_org": null,
+      "relevance_score": 6,
+      "saved": false,
+      "found_at": "2026-06-25T07:05:30.702318+03:00",
+      "keywords_matched": [
+        "stratospheric aerosol injection"
+      ],
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "is_new": true
+    }
+  ]
+}

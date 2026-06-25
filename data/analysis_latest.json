@@ -1,0 +1,215 @@
+{
+  "generated_at": "25/06/2026 07:04",
+  "generated_iso": "2026-06-25T07:04:56.301421+03:00",
+  "total_analyzed": 23,
+  "contradictions": 0,
+  "analyses": {
+    "s2:ff8c91ea334dc5fe363e5d28e56b4b9f2ba7a6ea": {
+      "paper_id": "s2:ff8c91ea334dc5fe363e5d28e56b4b9f2ba7a6ea",
+      "summary_he": "📄 **Space Debris and Stratospheric Ozone: Modeling and Analysis of the Sustainability of Reentry Disposal**\n✍️ מחברים: Bryan E. Hartigan, William A. Crossley, D. Cziczo\n📅 שנה: 2026 | מקור: Semantic Scholar\n🔗 חפיפה לStardust: כימיית אוזון",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "לרקע כימיית האוזון: (Hartigan et al., 2026): \"Space Debris and Stratospheric Ozone: Modeling and Analysis ...\"",
+      "similar_work": "",
+      "stardust_overlap": "כימיית אוזון"
+    },
+    "s2:38bc62976f7fd8dc08bd45d9c05a5a62cc69c046": {
+      "paper_id": "s2:38bc62976f7fd8dc08bd45d9c05a5a62cc69c046",
+      "summary_he": "📄 **A proposal for the safety and controllability requirements that SRM systems should meet**\n✍️ מחברים: E. Waxman, A. Spector, Y. Lederer ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Solar Radiation Modification (SRM) may be the only way to limit global warming in the coming decades, leading to increased interest in the subject and to the expansion of related research&development \n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Waxman et al., 2026): \"A proposal for the safety and controllability requirements t...\"",
+      "similar_work": "עבודות דומות:\n• Spector (2026): Composite sub-micron solid particles engineered to enable sa",
+      "stardust_overlap": ""
+    },
+    "s2:82ee68c88af65f80751b8f834b2bc9d6afcc710b": {
+      "paper_id": "s2:82ee68c88af65f80751b8f834b2bc9d6afcc710b",
+      "summary_he": "📄 **Uptake of stratospheric species on minerals proposed for stratospheric aerosol injection**\n✍️ מחברים: A. Lostier, Yair Segev, T. Kislev ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Solid mineral-based particles have been proposed as alternatives to sulfates for climate intervention by stratospheric aerosol injection, as a means for improving optical or chemical characteristics a\n🔗 חפיפה לStardust: חומרי סיליקה, סידן קרבונט, כימיה הטרוגנית, כימיית אוזון",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "לאישוש תכונות הסיליקה: (Lostier et al., 2026): \"Uptake of stratospheric species on minerals proposed for str...\"",
+      "similar_work": "עבודות דומות:\n• Spector (2026): Composite sub-micron solid particles engineered to enable sa",
+      "stardust_overlap": "חומרי סיליקה, סידן קרבונט, כימיה הטרוגנית, כימיית אוזון"
+    },
+    "s2:b12984c1c7d031ca230d554b632559cdd58d3be4": {
+      "paper_id": "s2:b12984c1c7d031ca230d554b632559cdd58d3be4",
+      "summary_he": "📄 **Composite sub-micron solid particles engineered to enable safe, controllable, efficient, and practical SAI**\n✍️ מחברים: A. Spector, T. Kislev, Y. Segev ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: The properties of candidate particles for solar radiation management (SRM) through stratospheric aerosol injection (SAI) should comply with safety, controllability, and functionality requirements\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Spector et al., 2026): \"Composite sub-micron solid particles engineered to enable sa...\"",
+      "similar_work": "עבודות דומות:\n• Waxman (2026): A proposal for the safety and controllability requirements t\n• Lostier (2026): Uptake of stratospheric species on minerals proposed for str",
+      "stardust_overlap": ""
+    },
+    "s2:00fbfb880b673c9ec4366c34831fbaa6dc28a4e9": {
+      "paper_id": "s2:00fbfb880b673c9ec4366c34831fbaa6dc28a4e9",
+      "summary_he": "📄 **Uncertainties of SAI efﬁciency and impacts depending on the complexity of the aerosol microphysical model**\n✍️ מחברים: S. Tilmes, D. Visioni, I. Quaglia ועוד\n📅 שנה: None | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Tilmes et al., None): \"Uncertainties of SAI efﬁciency and impacts depending on the ...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:4cc01b8323ab5331961617daeff10a9656d0eceb": {
+      "paper_id": "s2:4cc01b8323ab5331961617daeff10a9656d0eceb",
+      "summary_he": "📄 **Radiative forcing and climate impacts caused by the 2022 Hunga volcano eruption**\n✍️ מחברים: M. Schoeberl, E. Bednarz, Eric L. Fleming ועוד\n📅 שנה: None | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "להשפעה רדיאטיבית: (Schoeberl et al., None): \"Radiative forcing and climate impacts caused by the 2022 Hun...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:8d66edc6d06275263277e7bb98da5ea87e05effc": {
+      "paper_id": "s2:8d66edc6d06275263277e7bb98da5ea87e05effc",
+      "summary_he": "📄 **HTHH-MOC model validation and analysis results**\n✍️ מחברים: Zhihong Zhuo, Xinyue Wang, Yunqian Zhu ועוד\n📅 שנה: None | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Zhuo et al., None): \"HTHH-MOC model validation and analysis results...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:983e00804a4f859da88ab49b2494a70cd60071d3": {
+      "paper_id": "s2:983e00804a4f859da88ab49b2494a70cd60071d3",
+      "summary_he": "📄 **Response to**\n✍️ מחברים: Zhihong Zhuo, Xinyue Wang, Yunqian Zhu ועוד\n📅 שנה: None | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Zhuo et al., None): \"Response to...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:2b77a9612a7ec216b57067096c5694694ace8dab": {
+      "paper_id": "s2:2b77a9612a7ec216b57067096c5694694ace8dab",
+      "summary_he": "📄 **Longwang: Zero-Shot Global Spatiotemporal Precipitation Downscaling with a Latent Generative Prior**\n✍️ מחברים: Yue Wang, D. Visioni\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: High-resolution precipitation information is essential for climate impact assessment, yet global climate models remain too coarse to resolve key small-scale processes\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Wang et al., 2026): \"Longwang: Zero-Shot Global Spatiotemporal Precipitation Down...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:be88371d4dc877585e705e97c1664320dc51017f": {
+      "paper_id": "s2:be88371d4dc877585e705e97c1664320dc51017f",
+      "summary_he": "📄 **Multi-model analysis of the radiative impacts of the 2022 Hunga eruption indicates a significant cooling contribution from the volcanic plume**\n✍️ מחברים: I. Quaglia, D. Visioni, E. Bednarz ועוד\n📅 שנה: None | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Quaglia et al., None): \"Multi-model analysis of the radiative impacts of the 2022 Hu...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:7703c10ff4abc1855ce9996f9d1e5ef4c3e63e51": {
+      "paper_id": "s2:7703c10ff4abc1855ce9996f9d1e5ef4c3e63e51",
+      "summary_he": "📄 **Multidecadal SST Variability Assessed as Primarily Forced in the Atlantic and Internal in the Pacific Using Rotated Low‐Frequency Component Analysis**\n✍️ מחברים: Anthony S. Freveletti, M. Diamond, Robert C. J. Wills\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Whether multidecadal sea surface temperature (SST) variability in the Atlantic and Pacific basins originates internally or is externally forced has long been debated\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Freveletti et al., 2026): \"Multidecadal SST Variability Assessed as Primarily Forced in...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:448f9ba4b6941bcea33c04a99dda02773b9345ad": {
+      "paper_id": "s2:448f9ba4b6941bcea33c04a99dda02773b9345ad",
+      "summary_he": "📄 **The global climate response to High-Latitude Low-Altitude Stratospheric Aerosol Injection (HiLLA-SAI)**\n✍️ מחברים: Alistair Duffey, W. Lee, Lauren Wheeler ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Abstract\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Duffey et al., 2026): \"The global climate response to High-Latitude Low-Altitude St...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:70151a0c44858c9f31af29597981e7580a486f23": {
+      "paper_id": "s2:70151a0c44858c9f31af29597981e7580a486f23",
+      "summary_he": "📄 **Meteoric water δ18O across the Dinarides: Role of topography, air-mass mixing, and precipitation seasonality**\n✍️ מחברים: Gabriela Sanchez Ortiz, Marlene Löberbauer, N. Andrić‐Tomašević ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Study region: Streams in the Dinarides ranging from coastal Croatia across the high-elevation basins of Bosnia and Herzegovina to the lee of the Dinarides\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Ortiz et al., 2026): \"Meteoric water δ18O across the Dinarides: Role of topography...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:2faa53a9a157161c4d5b3e2492839b8405a6efa4": {
+      "paper_id": "s2:2faa53a9a157161c4d5b3e2492839b8405a6efa4",
+      "summary_he": "📄 **Haze–cloud correlations mediated by supersaturation fluctuations**\n✍️ מחברים: Hamed Fahandezh Sadi, Fan Yang, Jesse C. Anderson ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: Atmospheric aerosol particles that contain water‐soluble components can absorb water vapor in humid environments and form either haze particles or cloud droplets, depending on supersaturation conditio\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Sadi et al., 2026): \"Haze–cloud correlations mediated by supersaturation fluctuat...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:f190bf89b6f602f6c216f35bcdb492936ae3cf79": {
+      "paper_id": "s2:f190bf89b6f602f6c216f35bcdb492936ae3cf79",
+      "summary_he": "📄 **Interpreting the dominant signature of inhomogeneous mixing resulting from dry-air entrainment in clouds**\n✍️ מחברים: Nithin Allwayin, Gregory Roberts, Elise Rosky ועוד\n📅 שנה: 2026 | מקור: Semantic Scholar\n📝 עיקרון: How cloud droplets evaporate when mixed with the dry surrounding air is fundamental to cloud optical properties and lifetime\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Allwayin et al., 2026): \"Interpreting the dominant signature of inhomogeneous mixing ...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:987b65f0ee3ad445b5e4c1ad92b9076eb2bccfa3": {
+      "paper_id": "s2:987b65f0ee3ad445b5e4c1ad92b9076eb2bccfa3",
+      "summary_he": "📄 **Addressing climate change with behavioral science: A global intervention tournament in 63 countries**\n✍️ מחברים: Madalina Vlasceanu, Kimberly C. Doell, Joe Bak-Coleman ועוד\n📅 שנה: 2024 | מקור: Semantic Scholar\n📝 עיקרון: Effectively reducing climate change requires marked, global behavior change\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Vlasceanu et al., 2024): \"Addressing climate change with behavioral science: A global ...\"",
+      "similar_work": "עבודות דומות:\n• Knowles (2019): A Primer on Weather and Climate Intervention for Economists",
+      "stardust_overlap": ""
+    },
+    "s2:0c356f89da8b6b503639a1ade00ce25335cc95bf": {
+      "paper_id": "s2:0c356f89da8b6b503639a1ade00ce25335cc95bf",
+      "summary_he": "📄 **A Primer on Weather and Climate Intervention for Economists**\n✍️ מחברים: S. Knowles, M. Skidmore\n📅 שנה: 2019 | מקור: Semantic Scholar\n📝 עיקרון: There is limited public discourse and understanding about the history and science of weather and climate intervention, though scientists have researched, tested and implemented numerous methods of wea\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Knowles et al., 2019): \"A Primer on Weather and Climate Intervention for Economists...\"",
+      "similar_work": "עבודות דומות:\n• Vlasceanu (2024): Addressing climate change with behavioral science: A global ",
+      "stardust_overlap": ""
+    },
+    "s2:0782d71805ca731188e4ab9fdca001a77ccc2a41": {
+      "paper_id": "s2:0782d71805ca731188e4ab9fdca001a77ccc2a41",
+      "summary_he": "📄 **I want to talk about climate change, but I wish I didn’t have to: A descriptive qualitative study of an intervention combining creative arts and philosophical inquiry to help elementary school students cope with climate change emotions**\n✍️ מחברים: T. Léger-Goodes, Catherine M. Herba, J. Piché ועוד\n📅 שנה: 2025 | מקור: Semantic Scholar\n📝 עיקרון: Children are increasingly exposed to climate change impacts through school curricula, media, and in their environments, leading to various emotional responses, including sadness, anger, and fear\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Léger-Goodes et al., 2025): \"I want to talk about climate change, but I wish I didn’t hav...\"",
+      "similar_work": "עבודות דומות:\n• Malboeuf-Hurtubise (2025): Climate Change–Based Art and Philosophy Intervention and Men\n• Nagele (2024): Investigating trees as an interdisciplinary phenomenon in cl",
+      "stardust_overlap": ""
+    },
+    "s2:72cc7ce8395a7222f7e1f321caebc8fa9e8f6cdc": {
+      "paper_id": "s2:72cc7ce8395a7222f7e1f321caebc8fa9e8f6cdc",
+      "summary_he": "📄 **Climate Change–Based Art and Philosophy Intervention and Mental Health in Children**\n✍️ מחברים: C. Malboeuf-Hurtubise, T. Léger-Goodes, Heena Dave ועוד\n📅 שנה: 2025 | מקור: Semantic Scholar\n📝 עיקרון: This comparative effectiveness study compares climate change–related mental health outcomes among elementary school students receiving arts-based interventions and arts-and-philosophy–based interventi\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Malboeuf-Hurtubise et al., 2025): \"Climate Change–Based Art and Philosophy Intervention and Men...\"",
+      "similar_work": "עבודות דומות:\n• Léger-Goodes (2025): I want to talk about climate change, but I wish I didn’t hav",
+      "stardust_overlap": ""
+    },
+    "s2:a3fead66e74d192c818a57d0273aa40e8923e766": {
+      "paper_id": "s2:a3fead66e74d192c818a57d0273aa40e8923e766",
+      "summary_he": "📄 **A Coach-Initiated Motivational Climate Intervention and Athletes' Perceptions of Group Cohesion in Youth Sport**\n✍️ מחברים: Colin D. McLaren, Mark A Eys, Robyn A. Murray\n📅 שנה: 2015 | מקור: Semantic Scholar\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (McLaren et al., 2015): \"A Coach-Initiated Motivational Climate Intervention and Athl...\"",
+      "similar_work": "",
+      "stardust_overlap": ""
+    },
+    "s2:03186f801aaaa1d1b38dd323dd11b5c9459b9db6": {
+      "paper_id": "s2:03186f801aaaa1d1b38dd323dd11b5c9459b9db6",
+      "summary_he": "📄 **Investigating trees as an interdisciplinary phenomenon in climate regulation: an intervention study on iSTEM education and scientific literacy in secondary schools**\n✍️ מחברים: Fabio Nagele, Angela Hof, Verena Auer ועוד\n📅 שנה: 2024 | מקור: Semantic Scholar\n📝 עיקרון: ABSTRACT Climate change and CO2-emissions are key-issues of the 21st century\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Nagele et al., 2024): \"Investigating trees as an interdisciplinary phenomenon in cl...\"",
+      "similar_work": "עבודות דומות:\n• Léger-Goodes (2025): I want to talk about climate change, but I wish I didn’t hav",
+      "stardust_overlap": ""
+    },
+    "s2:eba14b908e72f39993f4896771d112f5bc22ded4": {
+      "paper_id": "s2:eba14b908e72f39993f4896771d112f5bc22ded4",
+      "summary_he": "📄 **A stepped-wedge randomized trial investigating the effect of the Leadership and Organizational Change for Implementation (LOCI) intervention on implementation and transformational leadership, and implementation climate**\n✍️ מחברים: A. Skar, Nora Braathu, Nadina Peters ועוד\n📅 שנה: 2021 | מקור: Semantic Scholar\n📝 עיקרון: Background This study evaluates the Leadership and Organizational Change for Implementation (LOCI) strategy and its effect on implementation leadership, transformational leadership, and implementation\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Skar et al., 2021): \"A stepped-wedge randomized trial investigating the effect of...\"",
+      "similar_work": "עבודות דומות:\n• Léger-Goodes (2025): I want to talk about climate change, but I wish I didn’t hav",
+      "stardust_overlap": ""
+    },
+    "s2:76f9be33c2d6480d23ab93d5d0a85967b86db5c6": {
+      "paper_id": "s2:76f9be33c2d6480d23ab93d5d0a85967b86db5c6",
+      "summary_he": "📄 **Coaching-Observing-Reflecting-Engaging: An Intervention for the Development of Teacher Wellbeing**\n✍️ מחברים: A. Coetzee, Felicity L. Brown, V. Alves ועוד\n📅 שנה: 2025 | מקור: Semantic Scholar\n📝 עיקרון: Support to improve teacher wellbeing is scarce in almost all contexts, but especially so in low- and middle-income settings in which teachers face both professional and personal challenges (Kirk and W\n🔗 חפיפה לStardust: חפיפה כללית לתחום SAI",
+      "contradicts_stardust": false,
+      "contradiction_details": "",
+      "citation_suggestion": "מקור כללי רלוונטי: (Coetzee et al., 2025): \"Coaching-Observing-Reflecting-Engaging: An Intervention for ...\"",
+      "similar_work": "עבודות דומות:\n• Léger-Goodes (2025): I want to talk about climate change, but I wish I didn’t hav",
+      "stardust_overlap": ""
+    }
+  }
+}

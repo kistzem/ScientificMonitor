@@ -1,0 +1,66 @@
+{
+  "generated_at": "25/06/2026 07:06",
+  "generated_iso": "2026-06-25T07:06:02.235219+03:00",
+  "total": 1,
+  "by_type": {
+    "government": 1,
+    "private": 0,
+    "unknown": 0
+  },
+  "items": [
+    {
+      "id": "doi:10.1109/lpt.2026.3690037",
+      "title": "Near Room Temperature Interband Cascade Lasers Beyond 9 μm",
+      "authors": [
+        "Yixuan Shen",
+        "John D. Steward",
+        "Rui Q. Yang",
+        "S. D. Hawkins",
+        "A. J. Muhowski"
+      ],
+      "funders": [
+        "NSF",
+        "OU Bridge Fund",
+        "Center for Integrated Nanotechnologies, an Office of Science User Facility operated for U.S. Department of Energy (DOE) Office of Science",
+        "National Technology and Engineering Solutions of Sandia, LLC, with U.S."
+      ],
+      "doi": "10.1109/lpt.2026.3690037",
+      "url": "https://doi.org/10.1109/lpt.2026.3690037",
+      "published_date": "2026-10-01",
+      "source": "crossref",
+      "amount_usd": null,
+      "funder_type": "government",
+      "found_at": "2026-06-25T07:06:14.323693+03:00"
+    }
+  ],
+  "by_funder_type": {
+    "government": [
+      {
+        "id": "doi:10.1109/lpt.2026.3690037",
+        "title": "Near Room Temperature Interband Cascade Lasers Beyond 9 μm",
+        "authors": [
+          "Yixuan Shen",
+          "John D. Steward",
+          "Rui Q. Yang",
+          "S. D. Hawkins",
+          "A. J. Muhowski"
+        ],
+        "funders": [
+          "NSF",
+          "OU Bridge Fund",
+          "Center for Integrated Nanotechnologies, an Office of Science User Facility operated for U.S. Department of Energy (DOE) Office of Science",
+          "National Technology and Engineering Solutions of Sandia, LLC, with U.S."
+        ],
+        "doi": "10.1109/lpt.2026.3690037",
+        "url": "https://doi.org/10.1109/lpt.2026.3690037",
+        "published_date": "2026-10-01",
+        "source": "crossref",
+        "amount_usd": null,
+        "funder_type": "government",
+        "found_at": "2026-06-25T07:06:14.323693+03:00"
+      }
+    ],
+    "private": [],
+    "unknown": []
+  }
+}

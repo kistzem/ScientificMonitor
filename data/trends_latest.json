@@ -1,0 +1,144 @@
+{
+  "generated_at": "25/06/2026 07:05",
+  "generated_iso": "2026-06-25T07:05:20.763090+03:00",
+  "total_papers": 23,
+  "subtopic_counts": {
+    "silica_sio2": 1,
+    "caco3_calcite": 0,
+    "ozone_chem": 0,
+    "heterogeneous": 0,
+    "climate_model": 0,
+    "injection_strat": 0,
+    "governance": 0,
+    "monitoring": 0,
+    "new_materials": 0,
+    "termination": 0
+  },
+  "subtopic_labels": {
+    "silica_sio2": "סיליקה / SiO2",
+    "caco3_calcite": "CaCO3 / קלציט",
+    "ozone_chem": "כימיית אוזון",
+    "heterogeneous": "קליטה הטרוגנית",
+    "climate_model": "מודלי אקלים",
+    "injection_strat": "אסטרטגיית הזרקה",
+    "governance": "ממשל ורגולציה",
+    "monitoring": "ניטור ומעקב",
+    "new_materials": "חומרים חדשים",
+    "termination": "הפסקה (Termination)"
+  },
+  "monthly_counts": {
+    "2015-05": 1,
+    "2019-01": 1,
+    "2021-07": 1,
+    "2024-02": 1,
+    "2024-04": 1,
+    "2025-01": 1,
+    "2025-09": 1,
+    "2025-12": 1,
+    "2026-04": 4,
+    "2026-05": 5,
+    "2026-06": 1,
+    "None-01": 5
+  },
+  "hot_topics": [],
+  "pivots": [
+    {
+      "paper_id": "s2:82ee68c88af65f80751b8f834b2bc9d6afcc710b",
+      "title": "Uptake of stratospheric species on minerals proposed for stratospheric aerosol i",
+      "authors": [
+        "A. Lostier",
+        "Yair Segev"
+      ],
+      "date": "2026-05-14",
+      "url": "https://arxiv.org/abs/2605.14826",
+      "signals": [
+        "however"
+      ],
+      "summary_he": "🔄 שינוי עמדה: 'Uptake of stratospheric species on minerals proposed for str' — however"
+    },
+    {
+      "paper_id": "s2:448f9ba4b6941bcea33c04a99dda02773b9345ad",
+      "title": "The global climate response to High-Latitude Low-Altitude Stratospheric Aerosol ",
+      "authors": [
+        "Alistair Duffey",
+        "W. Lee"
+      ],
+      "date": "2026-04-16",
+      "url": "https://doi.org/10.5194/esd-17-353-2026",
+      "signals": [
+        "however"
+      ],
+      "summary_he": "🔄 שינוי עמדה: 'The global climate response to High-Latitude Low-Altitude St' — however"
+    },
+    {
+      "paper_id": "s2:2faa53a9a157161c4d5b3e2492839b8405a6efa4",
+      "title": "Haze–cloud correlations mediated by supersaturation fluctuations",
+      "authors": [
+        "Hamed Fahandezh Sadi",
+        "Fan Yang"
+      ],
+      "date": "2026-05-17",
+      "url": "https://doi.org/10.1002/qj.70203",
+      "signals": [
+        "however"
+      ],
+      "summary_he": "🔄 שינוי עמדה: 'Haze–cloud correlations mediated by supersaturation fluctuat' — however"
+    },
+    {
+      "paper_id": "s2:987b65f0ee3ad445b5e4c1ad92b9076eb2bccfa3",
+      "title": "Addressing climate change with behavioral science: A global intervention tournam",
+      "authors": [
+        "Madalina Vlasceanu",
+        "Kimberly C. Doell"
+      ],
+      "date": "2024-02-07",
+      "url": "https://doi.org/10.1126/sciadv.adj5778",
+      "signals": [
+        "however"
+      ],
+      "summary_he": "🔄 שינוי עמדה: 'Addressing climate change with behavioral science: A global ' — however"
+    }
+  ],
+  "most_active_authors": [
+    {
+      "name": "S. Tilmes",
+      "count": 5
+    },
+    {
+      "name": "D. Visioni",
+      "count": 4
+    },
+    {
+      "name": "Yunqian Zhu",
+      "count": 4
+    },
+    {
+      "name": "Takashi Sekiya",
+      "count": 4
+    },
+    {
+      "name": "Xinyue Wang",
+      "count": 4
+    },
+    {
+      "name": "S. Watanabe",
+      "count": 4
+    },
+    {
+      "name": "Wandi Yu",
+      "count": 4
+    },
+    {
+      "name": "Jun Zhang",
+      "count": 4
+    },
+    {
+      "name": "T. Kislev",
+      "count": 3
+    },
+    {
+      "name": "I. Quaglia",
+      "count": 3
+    }
+  ]
+}
